@@ -1,6 +1,6 @@
 app-id: com.js8call.JS8Call
 runtime: org.kde.Platform
-runtime-version: 5.15-22.08
+runtime-version: 5.15-23.08
 sdk: org.kde.Sdk
 command: js8call
 rename-desktop-file: js8call.desktop
