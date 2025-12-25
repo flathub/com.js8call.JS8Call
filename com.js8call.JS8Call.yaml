@@ -1,6 +1,6 @@
 app-id: com.js8call.JS8Call
 runtime: org.kde.Platform
-runtime-version: 5.15-24.08
+runtime-version: 5.15-25.08
 sdk: org.kde.Sdk
 command: js8call
 rename-desktop-file: js8call.desktop
@@ -28,6 +28,8 @@ modules:
 
   - name: js8call
     buildsystem: cmake
+    config-opts:
+      - -DCMAKE_POLICY_VERSION_MINIMUM=3.5
     sources:
       - type: archive
         url: http://files.js8call.com/2.2.0/js8call-2.2.0.tgz
