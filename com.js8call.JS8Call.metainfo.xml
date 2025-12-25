@@ -28,12 +28,12 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>JS8Call running on a portable computer</caption>
-      <image>http://js8call.com/wp-content/uploads/2019/12/IMG_20190805_082011_201.jpg</image>
+      <caption>Main JS8Call window</caption>
+      <image>https://js8call.com/screenshot.png</image>
     </screenshot>
   </screenshots>
 
-  <url type="homepage">http://js8call.com</url>
+  <url type="homepage">https://js8call.com</url>
   <url type="bugtracker">https://bitbucket.org/widefido/js8call/issues</url>
 
   <releases>
