@@ -36,8 +36,7 @@
   </screenshots>
 
   <url type="homepage">https://js8call.com</url>
-  <url type="bugtracker">https://bitbucket.org/widefido/js8call/issues</url>
-  <url type="vcs-browser">https://bitbucket.org/widefido/js8call</url>
+  <url type="vcs-browser">https://github.com/js8call/js8call</url>
 
   <releases>
     <release version="2.2.0" date="2020-06-25"/>
